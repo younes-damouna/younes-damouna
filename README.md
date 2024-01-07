@@ -1,6 +1,7 @@
+![I'm a full stack developer ](https://raw.githubusercontent.com/younes-damouna/younes-damouna/main/github-banner.png)
+
 ### Hi there 👋, My name is Younes Damouna
 #### I'm a full stack developer 
-![I'm a full stack developer ](https://raw.githubusercontent.com/younes-damouna/younes-damouna/main/github-banner.png)
 
 🚀 Are you ready to take your online presence to the next level?
 
