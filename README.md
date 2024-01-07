@@ -9,7 +9,7 @@
 
 💡 Innovation is my middle name. Elevate your user experience with sleek, intuitive user interfaces that captivate your audience from the first click. I'm not just a developer – I'm a creator of immersive digital experiences that leave a lasting impression.
 
-Skills: Next JS / REACT / JS / HTML / CSS / Laravel / Node JS / PHP
+### Skills: Next JS / REACT / JS / HTML / CSS / Laravel / Node JS / PHP
 
 <!--- 🔭 I’m currently working on this page. !--> 
 
