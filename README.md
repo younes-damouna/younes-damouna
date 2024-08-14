@@ -1,5 +1,5 @@
 ![I'm a full stack developer ](https://raw.githubusercontent.com/younes-damouna/younes-damouna/main/github-banner.png)
-![](https://raw.githubusercontent.com/younes-damouna/younes-damouna/main/skills.gif)
+<!--![](https://raw.githubusercontent.com/younes-damouna/younes-damouna/main/skills.gif)-->
 ### Hi there 👋, My name is Younes Damouna
 #### I'm a full stack developer 
 
@@ -16,11 +16,11 @@
 
 <!--- 🔭 I’m currently working on this page. !--> 
 
-
+<!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/younes-damouna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/younes-damouna/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@younesdamouna5503)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=younes-damouna&show_icons=true)  
-
+-->
 
 <!--
 **younes-damouna/younes-damouna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
